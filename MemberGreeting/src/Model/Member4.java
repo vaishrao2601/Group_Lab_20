@@ -6,13 +6,11 @@ package Model;
 
 /**
  *
- * @author Srija
+ * @author agast
  */
-public class Main {
+public class Member4 {
     public static void main(String[] args) {
-        Member2.main(args);
-        Member3.main(args);
-        Member4.main(args);
-        
-    }
+        System.out.println("Hello from Agastya!");
+        System.out.println("Hello how are you doing");
+}
 }
